@@ -7,6 +7,7 @@ def minus(a, b):
     return a - b
 
 def square(a, b):
+<<<<<<< HEAD
     return a ** b
 
 def divide(a, b):
@@ -15,3 +16,6 @@ def divide(a, b):
     
     
 
+=======
+    return a**b
+>>>>>>> b5488f8 (feat: add square(a, b) function to functions.py)
