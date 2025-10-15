@@ -1,7 +1,6 @@
-def add(a, b):
-    """Add two numbers."""
+def add (a, b):
     return a + b
-
-def minus(a, b):
-    """Subtract b from a."""
+def minus (a, b):
     return a - b
+def multiple (a, b):
+    pass
