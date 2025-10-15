@@ -1,12 +1,12 @@
 # Changelog
 
-## [Unreleased]
-
 ## [1.0.0] - 2025-05-11
 
-### Added
-- Added `divide(a, b)` function in `functions.py` to perform division.
+## [Unreleased]
 
+### Added
+
+- Added `divide(a, b)` function in `functions.py` to perform division.
 
 
 - Initial release of the project.
