@@ -11,5 +11,4 @@ def square(a, b):
     return a ** b
 
 def divide(a, b):
-    """Divide a by b."""
     return a / b
