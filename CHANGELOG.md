@@ -2,12 +2,7 @@
 
 ## [1.0.0] - 2025-05-11
 
-## [Unreleased]
-
 ### Added
-
-- Added `divide(a, b)` function in `functions.py` to perform division.
-
 
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.
@@ -16,3 +11,4 @@
 - Set up GitHub Actions workflows for automated testing and code review.
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
+- Added `multiply(a, b)` function in `functions.py` to perform multiplication.
