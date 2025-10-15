@@ -1,9 +1,12 @@
-def add(a, b):
+def add (a, b):
     return a + b
 
-def minus(a, b):
+def minus (a, b):
     return a - b
-
+  
+def multiply (a, b):
+    return a * b
+  
 def square(a, b):
     return a ** b
 
