@@ -2,7 +2,12 @@
 
 ## [1.0.0] - 2025-05-11
 
+## [Unreleased]
+
 ### Added
+
+- Added `divide(a, b)` function in `functions.py` to perform division.
+
 
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.
