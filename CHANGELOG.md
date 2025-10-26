@@ -12,3 +12,18 @@
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
 - Added `multiply(a, b)` function in `functions.py` to perform multiplication.
+
+## [1.0.0] - 2025-10-26
+
+### Added
+- Added `root()` function (square root calculation feature, without using the `math` module)
+- Updated contents of `CHANGELOG.md`
+
+### Changed
+- None
+
+### Fixed
+- None
+
+### Removed
+- None
