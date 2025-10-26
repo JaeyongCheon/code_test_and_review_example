@@ -21,5 +21,5 @@
 
 ### Added
 - Added `root()` function (square root calculation feature, without using the `math` module)
-- Added `square(a, b)` function in `functions.py` to perform division.
+- Added `square(a, b)` function in `functions.py` to perform square.
 - Updated contents of `CHANGELOG.md`
