@@ -1,6 +1,6 @@
-def add(a, b):
-    """Add two numbers."""
+def add (a, b):
     return a + b
+
 
 def minus(a, b):
     """Subtract b from a."""
@@ -11,4 +11,17 @@ def root(x: float) -> float:
     if x < 0:
         raise ValueError("음수는 제곱근을 계산할 수 없습니다.")
     return x ** 0.5
+
+
+def minus (a, b):
+    return a - b
+  
+def multiply (a, b):
+    return a * b
+  
+def square(a, b):
+    return a ** b
+
+def divide(a, b):
+    return a / b
 
