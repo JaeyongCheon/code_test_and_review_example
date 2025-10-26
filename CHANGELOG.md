@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - 2025-10-26
+## [1.0.0] - 2025-05-11
 
 ### Added
 
@@ -21,4 +21,5 @@
 
 ### Added
 - Added `root()` function (square root calculation feature, without using the `math` module)
+- Added `square(a, b)` function in `functions.py` to perform division.
 - Updated contents of `CHANGELOG.md`
