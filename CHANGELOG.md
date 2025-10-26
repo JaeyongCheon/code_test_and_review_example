@@ -13,16 +13,17 @@
 - Provided `README.md` with basic project information and setup instructions.
 - Added `multiply(a, b)` function in `functions.py` to perform multiplication.
 
- ## [1.0.0] - 2025-10-26
+## [1.0.0] - 2025-10-26
+
 ### Added
-- `root()` 함수 추가 (제곱근 계산 기능, `math` 모듈 미사용)
-- CHANGELOG.md 내용 업데이트
+- Added `root()` function (square root calculation feature, without using the `math` module)
+- Updated contents of `CHANGELOG.md`
 
 ### Changed
-- 없음
+- None
 
 ### Fixed
-- 없음
+- None
 
 ### Removed
-- 없음
+- None
