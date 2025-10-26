@@ -11,6 +11,10 @@
 - Set up GitHub Actions workflows for automated testing and code review.
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
+
+## [1.0.0] - 2025-10-15
+
+### Added
 - Added `multiply(a, b)` function in `functions.py` to perform multiplication.
 
 ## [1.0.0] - 2025-10-26
