@@ -18,12 +18,3 @@
 ### Added
 - Added `root()` function (square root calculation feature, without using the `math` module)
 - Updated contents of `CHANGELOG.md`
-
-### Changed
-- None
-
-### Fixed
-- None
-
-### Removed
-- None
