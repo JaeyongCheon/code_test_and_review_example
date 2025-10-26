@@ -7,4 +7,5 @@ def minus(a, b):
     return a - b
 
 def square(a, b):
+    """a square b"""
     return a**b
